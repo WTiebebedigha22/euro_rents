@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "465017680457",
+    "firebase_url": "https://rei-rentals-default-rtdb.firebaseio.com",
+    "project_id": "rei-rentals",
+    "storage_bucket": "rei-rentals.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465017680457:android:191d18877a0c4630f1c598",
+        "android_client_info": {
+          "package_name": "com.example.euro_rens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEC4BeJ2VIfGksEMo0zZq9ZDeHaeMTWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465017680457:android:b2b7faa6881f1f76f1c598",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEC4BeJ2VIfGksEMo0zZq9ZDeHaeMTWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465017680457:android:81b849a78eb95c93f1c598",
+        "android_client_info": {
+          "package_name": "com.mgogolowicz.car_rental_app_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEC4BeJ2VIfGksEMo0zZq9ZDeHaeMTWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
